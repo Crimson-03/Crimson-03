@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Crimson-03)
+
 ### 👋 Hello there!!!
 
 I'm _Krishan Kumar_, a passionate software developer with a love for crafting clean, efficient code and building impactful projects. I thrive on challenges and enjoy exploring new technologies to expand my skill set.
